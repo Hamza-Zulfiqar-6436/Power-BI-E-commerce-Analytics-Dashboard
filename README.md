@@ -89,3 +89,10 @@ State-level breakdown helped identify regional variations in logistics performan
 - Business-aligned metric modeling
 
 - Data storytelling for operational dashboards
+
+## Download Dashboard File
+
+Due to GitHub file size limits, the Power BI (.pbix) file is hosted externally:
+
+[Download Dashboard Here](https://drive.google.com/file/d/1s4Zfdb-vcJiH8m4PnwlflCf-kfSFwZsR/view?usp=sharing)
+
