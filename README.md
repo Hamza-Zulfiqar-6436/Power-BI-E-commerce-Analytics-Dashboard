@@ -64,6 +64,10 @@ State-level breakdown helped identify regional variations in logistics performan
 
 - Includes orders, customers, payments, products, and delivery data
 
+- Source: Kaggle
+
+- Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Tools Used
 
 - Power BI
